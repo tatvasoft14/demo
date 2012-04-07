@@ -1,0 +1,5 @@
+<?php
+
+echo 'I know file extension is not created properly';
+
+?>
